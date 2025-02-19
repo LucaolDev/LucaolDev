@@ -3,7 +3,7 @@
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="180"/>
 </p>

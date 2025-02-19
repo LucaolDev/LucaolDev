@@ -12,8 +12,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-</picture>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 <div style="display: inline_block"><br>

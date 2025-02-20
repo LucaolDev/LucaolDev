@@ -18,15 +18,15 @@
 </div>
 
 ### Vamos nos conectar!
- 
+###
 <div> 
   <a href="https://www.instagram.com/_lucaol_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-carlos-623058289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+###
 
 <img src="https://raw.githubusercontent.com/LucaolDev/LucaolDev/output/snake.svg" alt="Snake animation" />
 
-##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f92022&height=120&section=footer"/>
 </div>

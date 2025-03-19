@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f92022&height=120&section=header"/>
-
+ 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f92022&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Carlos;Estudante+de+Sistemas+de+Informação+na+FIAP;Seja+bem-vindo!)
 
 <div>

@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-eb1547.svg?style=for-the-badge&logo=intellij-idea">
 <img src="https://img.shields.io/badge/PyCharm-1bd88a.svg?&style=for-the-badge&logo=PyCharm">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=orange">
 <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=orange">
 </div>
 

@@ -6,11 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LucaolDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff&icon_color=f92022" height="190em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaolDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff" height="190em"/>
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LucaolDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff&icon_color=f92022" height="190em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaolDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff" height="190em"/>
-</div>
-
 
 <h3>:rocket: &nbsp;Skills</h3><br/>
 

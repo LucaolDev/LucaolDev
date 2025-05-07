@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f92022&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580fcb&height=120&section=header"/>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f92022&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Carlos;Estudante+de+Sistemas+de+Informação+na+FIAP;Seja+bem-vindo!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=580fcb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Carlos;Estudante+de+Sistemas+de+Informação+na+FIAP;Seja+bem-vindo!) 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=LucaolDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff&icon_color=f92022&cache_seconds=7200" height="190em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaolDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff&cache_seconds=7200&hide=Jupyter%20Notebook" height="190em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LucaolDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=580fcb&text_color=fff&icon_color=580fcb&cache_seconds=7200" height="190em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaolDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=580fcb&text_color=fff&cache_seconds=7200&hide=Jupyter%20Notebook" height="190em"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaolDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff&cache_seconds=7200" height="190em"/> -->
 
 </div>
@@ -82,5 +82,5 @@
 <img src="https://raw.githubusercontent.com/LucaolDev/LucaolDev/output/snake.svg" alt="Snake animation" />
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f92022&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580fcb&height=120&section=footer"/>
 

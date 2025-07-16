@@ -63,7 +63,6 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-eb1547.svg?style=for-the-badge&logo=intellij-idea">
 <img src="https://img.shields.io/badge/PyCharm-1bd88a.svg?&style=for-the-badge&logo=PyCharm">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=orange">
-<img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=orange">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </div>
